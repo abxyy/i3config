@@ -153,6 +153,14 @@ bindsym $mod+Shift+9 move container to workspace number $ws9
 bindsym $mod+Shift+0 move container to workspace number $ws10
 
 
+
+# gaps
+
+gaps inner 15
+gaps outer 5
+
+
+
 # window border settings
 
 default_border pixel 3
